@@ -1,0 +1,23 @@
+{
+	"server": "hub-cloud.browserstack.com",
+	"user": "charlielee3",
+	"key": "k5U39Kts49R5EGbUQMPn",
+
+	"capabilities": {
+		"project": "Charlie100",
+		"build": "Java Selenide Parallel",
+		"browserstack.debug": true
+	},
+
+	"environments": {
+		"chrome": {
+			"browser": "chrome"
+		},
+		"firefox": {
+			"browser": "firefox"
+		},
+		"safari": {
+			"browser": "safari"
+		}
+	}
+}
