@@ -4,7 +4,7 @@
   "key": BROWSERSTACK_ACCESS_KEY,
 
   "capabilities": {
-    "project": "CharlieTest",
+    "project": "Example",
     "build": "Java Selenide Suite",
     "browserstack.debug": true
   },
