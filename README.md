@@ -3,7 +3,8 @@
 [Selenide](http://selenide.org/) Integration with BrowserStack.
 
 [![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)](www.browserstack.com/automate)
-[![Selenide Logo](http://selenide.org/images/selenide-logo-big.png)](http://selenide.org/)
+
+<a href="http://selenide.org/"><img src ="http://selenide.org/images/selenide-logo-big.png" height = "110"></a>
 
 ## Setup
 
