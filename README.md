@@ -1,4 +1,4 @@
-# testng-browserstack
+# Selenide-BrowserStack
 
 [Selenide](http://selenide.org/) Integration with BrowserStack.
 
