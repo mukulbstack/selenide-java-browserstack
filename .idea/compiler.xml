@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-selenide-browserstack" />
+        <module name="selenide-java-browserstack" />
         <module name="testng-browserstack" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-selenide-browserstack" target="1.5" />
+      <module name="selenide-java-browserstack" target="1.5" />
       <module name="testng-browserstack" target="1.5" />
     </bytecodeTargetLevel>
   </component>
