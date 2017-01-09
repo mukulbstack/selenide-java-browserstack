@@ -4,7 +4,7 @@
 	"key": "k5U39Kts49R5EGbUQMPn",
 
 	"capabilities": {
-		"project": "Charlie100",
+		"project": "Example",
 		"build": "Java Selenide Single",
 		"browserstack.debug": true
 	},
